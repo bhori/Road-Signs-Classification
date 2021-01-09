@@ -1,4 +1,4 @@
-# Road-Signs-Classification  
+# Road Signs Classification  
 This project is designed to produce a classification model for road signs.  
 For this purpose, I used a number of different models from simple to complicated in order to examine the differences and the accuracy percentages between the models.  
 List of models I used in the project:  
